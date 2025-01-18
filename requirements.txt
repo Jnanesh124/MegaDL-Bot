@@ -1,7 +1,7 @@
-pyrogram
-TgCrypto
-mega.py
-hurry.filesize
-filetype
-moviepy
-ffmpeg
+pyrogram==2.0.56
+TgCrypto==1.2.1
+mega.py==1.1.4
+hurry.filesize==0.9
+filetype==1.0.7
+moviepy==1.0.3
+ffmpeg-python==0.2.0
