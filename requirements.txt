@@ -1,5 +1,5 @@
 pyrogram==2.0.56
-TgCrypto==1.2.1
+TgCrypto
 mega.py==1.1.4
 hurry.filesize==0.9
 filetype==1.0.7
