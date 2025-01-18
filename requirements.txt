@@ -1,5 +1,5 @@
 pyrofork==2.3.43
-https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
+git+https://github.com/KurimuzonAkuma/pyrogram.git@dev
 TgCrypto
 mega.py
 hurry.filesize
@@ -7,3 +7,4 @@ filetype
 moviepy==1.0.3
 ffmpeg-python
 tenacity==9.0.0
+pycryptodome>=3.10.0
