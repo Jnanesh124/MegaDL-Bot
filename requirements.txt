@@ -1,4 +1,5 @@
-pyrogram==2.0.56
+pyrofork==2.3.43
+https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
 TgCrypto
 mega.py
 hurry.filesize
