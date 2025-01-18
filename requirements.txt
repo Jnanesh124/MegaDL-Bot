@@ -6,4 +6,4 @@ hurry.filesize
 filetype
 moviepy==1.0.3
 ffmpeg-python
-tenacity 9.0.0
+tenacity==9.0.0
